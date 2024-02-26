@@ -33,8 +33,8 @@ I'm a Software Engineer, Full Stack Developer, and Cyber Security Engineer with 
 - **Description:** A frontend website using RapidAPI to fetch cars, featuring search and filtering functionalities by year, fuel, name, and model.
 
 ## Find Me Online
-- **LinkedIn:** [Ziad Embaby](https://www.linkedin.com/in/ziad-embaby-26528527a/)
-- **GitHub:** [Emababy](https://github.com/Emababy/)
-- **Email:** [ziadMembaby@outlook.com](mailto:ziadMembaby@outlook.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) [Ziad Embaby](https://www.linkedin.com/in/ziad-embaby-26528527a/)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername/) [Emababy](https://github.com/Emababy/)
+- [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:youremail@example.com)[ziadMembaby@outlook.com](mailto:ziadMembaby@outlook.com)
 
 Let's connect and build amazing things together! 😊
