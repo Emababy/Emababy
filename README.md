@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi, I'm Ziad Embaby! 👋
 
-<!--
-**Emababy/Emababy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Software Engineer, Full Stack Developer, and Cyber Security Engineer with two years of experience in web development and securing websites. I'm passionate about crafting robust solutions and ensuring the security of web applications.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** 
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- **Technologies:** 
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+  - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
+  - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+- **Other Skills:** 
+  - Scrum 
+  - Agile 
+  - Design Patterns 
+  - SOLID Principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Blog Website 
+- **Link:** [Blog Laravel Website](https://github.com/Emababy/Blog_Laravel_Website)
+- **Description:** This is a CRUD Blog Website with sign-in, sign-up, and logout functions. It incorporates validation in every user input and utilizes web routes and APIs routes. (Under Development)
+
+### Next Admin Dashboard 
+- **Link:** [Next Admin Dashboard](https://github.com/Emababy/next-admin-dashboard)
+- **Description:** It's a frontend website using Fake Store API to fetch products and users to make it dynamic.
+
+### CarStore 
+- **Link:** [CarShop](https://github.com/Emababy/CarShop)
+- **Description:** A frontend website using RapidAPI to fetch cars, featuring search and filtering functionalities by year, fuel, name, and model.
+
+## Find Me Online
+- **LinkedIn:** [Ziad Embaby](https://www.linkedin.com/in/ziad-embaby-26528527a/)
+- **GitHub:** [Emababy](https://github.com/Emababy/)
+- **Email:** [ziadMembaby@outlook.com](mailto:ziadMembaby@outlook.com)
+
+Let's connect and build amazing things together! 😊
