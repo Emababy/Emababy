@@ -1,7 +1,7 @@
 # Hi, I'm Ziad Embaby! 👋
 
 ## About Me
-I'm a Software Engineer, Full Stack Developer, and Cyber Security Engineer with two years of experience in web development and securing websites. I'm passionate about crafting robust solutions and ensuring the security of web applications.
+I'm a Software Engineer & Cybersecurity Analyst with experience in web development and securing websites. I'm passionate about crafting robust solutions and ensuring the security of web applications.
 
 ## Skills
 - **Programming Languages:** 
